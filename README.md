@@ -51,4 +51,4 @@ Data encapsulation
 
 Collections (ArrayList)
 
-Input handling and loops
+Input handling and loops.
